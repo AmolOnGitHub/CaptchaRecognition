@@ -55,9 +55,7 @@ whatever when where whether which while white who whole whom whose why wide wife
 without woman wonder word work worker world worry would write writer wrong yard yeah year yes yet you young your yourself
 """
 
-WORD_LIST = [word.lower() for word in common_words.split() if len(word) <= 10 and len(word) >= 5]
+WORD_LIST = [word.lower() for word in common_words.split() if len(word) <= 15]
 
 random.seed(42)  # Ensure reproducibility
 TASK1_LIST = random.sample(WORD_LIST, 100)
-
-print(TASK1_LIST)

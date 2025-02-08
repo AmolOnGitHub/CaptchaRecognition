@@ -4,7 +4,7 @@ import os
 import random
 import time
 
-from general import WORD_LIST
+from others.general import WORD_LIST
 
 
 IMAGE_SIZE = (250, 100)
