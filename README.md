@@ -4,7 +4,9 @@ This is my submission for the Precog task. I have chosen [Captcha Recognition](/
 
 The presentation covering my findings, methodologies, and insights is here: [.pptx](/CaptchaRecognition/Presentations/CaptchaRecognition_Presentation.pptx) [.pdf](/CaptchaRecognition/Presentations/CaptchaRecognition_Presentation.pdf). 
 
-The presentation and video recording covering the [assigned paper reading](/CaptchaRecognition/) is present here: [.pptx](/CaptchaRecognition/)
+The presentation and video recording covering the [assigned paper reading](/CaptchaRecognition/Presentations/CLIP.pdf) is present here: [.pptx](/CaptchaRecognition/Presentations/PaperReading_Presentation.pptx)
+
+The video recording is too large for GitHub - here is a [drive link](https://docs.google.com/presentation/d/1ggoCvmmcxa8h38jDo74CYGETMsY5C89U/edit?usp=sharing&ouid=109732099502187558815&rtpof=true&sd=true).
 
 I could not upload the dataset and trained models to this repository, so you can find them in these Kaggle datasets:
 
