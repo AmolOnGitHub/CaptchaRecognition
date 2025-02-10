@@ -1,9 +1,16 @@
 # CaptchaRecognition
 
+This is my submission for the Precog task. I have chosen [Captcha Recognition](/CaptchaRecognition/Presentations/CaptchaTask.pdf), the computer vision task.
+
+The presentation covering my findings, methodologies, and insights is here: [.pptx](/CaptchaRecognition/Presentations/CaptchaRecognition_Presentation.pptx) [.pdf](/CaptchaRecognition/Presentations/CaptchaRecognition_Presentation.pdf). 
+
+The presentation and video recording covering the [assigned paper reading](/CaptchaRecognition/) is present here: [.pptx](/CaptchaRecognition/)
+
 I could not upload the dataset and trained models to this repository, so you can find them in these Kaggle datasets:
 
-- [Dataset]()
-- [Trained Models]()
+- [Dataset](https://www.kaggle.com/datasets/amolvijayachandran/precog-captcharecognition-dataset/)
+- [Trained Models](https://www.kaggle.com/datasets/amolvijayachandran/precog-captcharecognition-models)
+
 
 
 ### Task 0 
@@ -43,7 +50,7 @@ The dataset (available on kaggle) has 5 subfolders:
 
 ### Models
 
-There are 5 trained models:
+There are 5 trained models (available on kaggle):
 - `classification_complete`: A fully trained model for Task 1, achieving results as per mentioned in the presentation.
 - `generation_complete_prev-arc_prev-data`: The Attention-based Encoder-Decoder model, trained on the `task2_600` dataset.
 - `generation_complete_prev-arc_new-data`: The Attention-based Encoder-Decoder model, trained on the `task2` dataset.
